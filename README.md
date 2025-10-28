@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0219-contains-duplicate-ii) |
 | [0475-heaters](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0475-heaters) |
+| [0682-baseball-game](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0682-baseball-game) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0682-baseball-game) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2169-simple-bank-system) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0682-baseball-game) |
 ## Combinatorics
 |  |
 | ------- |
