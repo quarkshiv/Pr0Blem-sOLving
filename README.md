@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0682-baseball-game) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0219-contains-duplicate-ii) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2169-simple-bank-system](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2169-simple-bank-system) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1925-count-nice-pairs-in-an-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -148,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+## Counting
+|  |
+| ------- |
+| [1925-count-nice-pairs-in-an-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1925-count-nice-pairs-in-an-array) |
 <!---LeetCode Topics End-->
