@@ -1,16 +1,18 @@
 class Solution {
 public:
     int countElements(vector<int>& nums, int k) {
-        int n = nums.size();
-        sort(nums.begin(),nums.end());
-        int idx = n - k;
-        if (idx < 0 || idx >= n) return 0; 
-        int t= nums[idx];
-        int cnt = 0;
-        for(int x : nums){
-            if(x < t) cnt++;
+        if(k==0){
+            return nums.size();
         }
-
+        int cnt=0;
+        sort(nums.begin(),nums.end());
+        int ind = nums.size()-k;
+        int val = nums[val];
+        for(int i=0;i<nums.size();i++){
+               if(nums[i]>val){
+                cnt++;
+               }
+        }
         return cnt;
     }
 };
