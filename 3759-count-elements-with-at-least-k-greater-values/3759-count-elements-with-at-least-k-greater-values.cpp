@@ -7,9 +7,10 @@ public:
         int cnt=0;
         sort(nums.begin(),nums.end());
         int ind = nums.size()-k;
-        int val = nums[val];
+        if (ind < 0 || ind >= nums.size()) return 0; 
+        int val = nums[ind];
         for(int i=0;i<nums.size();i++){
-               if(nums[i]>val){
+               if(nums[i]<val){
                 cnt++;
                }
         }
