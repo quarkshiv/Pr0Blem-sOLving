@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0278-first-bad-version) |
 | [0475-heaters](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0475-heaters) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Sorting
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0475-heaters](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0475-heaters) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Greedy
 |  |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -160,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0238-product-of-array-except-self) |
 | [1590-make-sum-divisible-by-p](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1590-make-sum-divisible-by-p) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Bit Manipulation
