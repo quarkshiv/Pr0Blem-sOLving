@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0238-product-of-array-except-self) |
 | [0318-maximum-product-of-word-lengths](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0318-maximum-product-of-word-lengths) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0475-heaters](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0475-heaters) |
 | [0682-baseball-game](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0682-baseball-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1033-broken-calculator](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1033-broken-calculator) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1636-number-of-substrings-with-only-1s) |
