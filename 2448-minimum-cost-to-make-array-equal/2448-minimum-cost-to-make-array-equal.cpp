@@ -6,6 +6,8 @@ public:
             v.push_back({nums[i],cost[i]});
         }
         sort(v.begin(),v.end());
+        //weighted median concept : 
+        //Total weight on the left of m ≤ half of total weight
          long long totalCost = 0;
         for(int i = 0; i < v.size(); i++) totalCost += v[i].second;
         long long pref = 0;
