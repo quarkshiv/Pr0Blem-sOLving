@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0079-word-search) |
 | [0318-maximum-product-of-word-lengths](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0318-maximum-product-of-word-lengths) |
 | [0504-base-7](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0504-base-7) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0682-baseball-game) |
 | [1006-clumsy-factorial](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1006-clumsy-factorial) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0089-gray-code) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0089-gray-code) |
 | [0318-maximum-product-of-word-lengths](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0318-maximum-product-of-word-lengths) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1018-binary-prefix-divisible-by-5) |
