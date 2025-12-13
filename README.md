@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0089-gray-code) |
+| [0172-factorial-trailing-zeroes](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0172-factorial-trailing-zeroes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0504-base-7](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0504-base-7) |
