@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0079-word-search) |
 | [0152-maximum-product-subarray](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0164-maximum-gap) |
+| [0209-minimum-size-subarray-sum](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0300-longest-increasing-subsequence) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0410-split-array-largest-sum) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0219-contains-duplicate-ii) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0410-split-array-largest-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1590-make-sum-divisible-by-p) |
