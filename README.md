@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0682-baseball-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0735-asteroid-collision](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0735-asteroid-collision) |
+| [0778-swim-in-rising-water](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0778-swim-in-rising-water) |
 | [0881-boats-to-save-people](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0881-boats-to-save-people) |
 | [0888-fair-candy-swap](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0888-fair-candy-swap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0410-split-array-largest-sum) |
 | [0475-heaters](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0475-heaters) |
+| [0778-swim-in-rising-water](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0778-swim-in-rising-water) |
 | [0888-fair-candy-swap](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0888-fair-candy-swap) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0079-word-search) |
+| [0778-swim-in-rising-water](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0778-swim-in-rising-water) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0778-swim-in-rising-water) |
 | [1338-reduce-array-size-to-the-half](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1338-reduce-array-size-to-the-half) |
 | [1686-stone-game-vi](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1686-stone-game-vi) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -313,17 +317,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0079-word-search) |
+| [0778-swim-in-rising-water](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0778-swim-in-rising-water) |
 | [2092-find-all-people-with-secret](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0778-swim-in-rising-water) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [2092-find-all-people-with-secret](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0778-swim-in-rising-water) |
 | [2092-find-all-people-with-secret](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3863-power-grid-maintenance) |
 ## Graph
