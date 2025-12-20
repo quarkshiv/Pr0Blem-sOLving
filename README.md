@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0778-swim-in-rising-water) |
 | [0881-boats-to-save-people](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0881-boats-to-save-people) |
 | [0888-fair-candy-swap](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0888-fair-candy-swap) |
+| [0944-delete-columns-to-make-sorted](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0944-delete-columns-to-make-sorted) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1338-reduce-array-size-to-the-half](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1338-reduce-array-size-to-the-half) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0402-remove-k-digits) |
 | [0504-base-7](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0504-base-7) |
 | [0647-palindromic-substrings](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0647-palindromic-substrings) |
+| [0944-delete-columns-to-make-sorted](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0944-delete-columns-to-make-sorted) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2137-final-value-of-variable-after-performing-operations) |
