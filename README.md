@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0045-jump-game-ii) |
 | [0079-word-search](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0079-word-search) |
 | [0152-maximum-product-subarray](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0152-maximum-product-subarray) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0042-trapping-rain-water) |
 | [0475-heaters](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0475-heaters) |
 | [0647-palindromic-substrings](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0647-palindromic-substrings) |
 | [0881-boats-to-save-people](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0881-boats-to-save-people) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0402-remove-k-digits) |
 | [0682-baseball-game](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0735-asteroid-collision) |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0045-jump-game-ii) |
 | [0152-maximum-product-subarray](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0300-longest-increasing-subsequence) |
@@ -290,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0402-remove-k-digits) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
