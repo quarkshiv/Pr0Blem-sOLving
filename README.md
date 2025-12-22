@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1052-grumpy-bookstore-owner](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1052-grumpy-bookstore-owner) |
 | [1338-reduce-array-size-to-the-half](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1338-reduce-array-size-to-the-half) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0219-contains-duplicate-ii) |
+| [1052-grumpy-bookstore-owner](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1052-grumpy-bookstore-owner) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
