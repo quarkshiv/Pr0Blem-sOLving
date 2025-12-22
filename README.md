@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0045-jump-game-ii) |
 | [0079-word-search](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0079-word-search) |
+| [0128-longest-consecutive-sequence](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0189-rotate-array) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0219-contains-duplicate-ii) |
 | [0888-fair-candy-swap](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0888-fair-candy-swap) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0128-longest-consecutive-sequence) |
 | [0778-swim-in-rising-water](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0778-swim-in-rising-water) |
 | [2092-find-all-people-with-secret](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3863-power-grid-maintenance) |
