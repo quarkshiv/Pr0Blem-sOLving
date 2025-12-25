@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0079-word-search) |
 | [0128-longest-consecutive-sequence](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0209-minimum-size-subarray-sum) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0300-longest-increasing-subsequence) |
