@@ -1,22 +1,20 @@
 class Solution {
 public:
-int findRotationIndexLinear(vector<int>& nums) {
-    int n = nums.size();
-    for (int i = 1; i < n; i++) {
-        if (nums[i] < nums[i - 1]) {
-            return i;
+    int findMin(vector<int>& arr) {
+       int low=0;
+       int high =arr.size()-1;
+       int ans=INT_MAX;
+          while(low<=high){
+        int mid = (low + high)/2;
+        if(arr[low]<=arr[mid]){
+            ans =min(arr[low],ans);
+            low = mid+1;
         }
+        else{
+            high =mid-1;
+            ans = min(arr[mid],ans);
+        }
+       }
+       return ans;
     }
-    return 0;
-}
-    int findMin(vector<int>& nums) {
-     int k = findRotationIndexLinear(nums);
-     k=k%nums.size();
-     reverse(nums.begin() + k, nums.end());
-     reverse(nums.begin(), nums.begin() + k);
-    reverse(nums.begin(), nums.end());
-    
-    return nums[0];
-    }
-
 };
