@@ -1,16 +1,13 @@
 class Solution {
 public:
     int missingNumber(vector<int>& nums) {
-        map<int,int>mpp;
-        for(int i=0;i<nums.size();i++){
-            mpp[nums[i]]++;
-        }
-        for(int i=0;i<nums.size();i++){
-             if(!mpp.count(i)){
-                   return i;
-             }
-        }
-        int maxi = *max_element(nums.begin(),nums.end());
-        return maxi+1;
+        int xor1=0,xor2=0;
+     for(int i=0;i<nums.size();i++){
+        xor1^=nums[i];
+     }
+     for(int  i=0;i<=nums.size();i++){
+        xor2^=i;
+     }
+     return xor1^xor2;
     }
 };
