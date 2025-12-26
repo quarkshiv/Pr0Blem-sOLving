@@ -6,7 +6,7 @@ public:
         }
         if(n<0){
             x=1/x;
-            if(x==INT_MIN){
+            if(n==INT_MIN){
                 return x * (x,INT_MAX);
             }
             n=-n;
