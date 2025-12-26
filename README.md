@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0045-jump-game-ii) |
 | [0079-word-search](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0079-word-search) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0090-subsets-ii) |
