@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1686-stone-game-vi](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1686-stone-game-vi) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [2054-two-best-non-overlapping-events](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
