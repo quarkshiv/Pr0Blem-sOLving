@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1929-concatenation-of-array) |
 | [1936-add-minimum-number-of-rungs](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1936-add-minimum-number-of-rungs) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0475-heaters) |
 | [0647-palindromic-substrings](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0647-palindromic-substrings) |
 | [0881-boats-to-save-people](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0881-boats-to-save-people) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1626-best-team-with-no-conflicts](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1626-best-team-with-no-conflicts) |
 | [1686-stone-game-vi](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1686-stone-game-vi) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2092-find-all-people-with-secret) |
 | [2126-destroying-asteroids](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2126-destroying-asteroids) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1686-stone-game-vi](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1686-stone-game-vi) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1936-add-minimum-number-of-rungs](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1936-add-minimum-number-of-rungs) |
 | [2126-destroying-asteroids](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2141-maximum-running-time-of-n-computers) |
