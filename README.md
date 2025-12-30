@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0778-swim-in-rising-water) |
 | [0815-bus-routes](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0815-bus-routes) |
+| [0840-magic-squares-in-grid](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0840-magic-squares-in-grid) |
 | [0881-boats-to-save-people](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0881-boats-to-save-people) |
 | [0888-fair-candy-swap](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0888-fair-candy-swap) |
 | [0944-delete-columns-to-make-sorted](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0944-delete-columns-to-make-sorted) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0268-missing-number) |
 | [0815-bus-routes](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0815-bus-routes) |
+| [0840-magic-squares-in-grid](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0840-magic-squares-in-grid) |
 | [0888-fair-candy-swap](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0888-fair-candy-swap) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1338-reduce-array-size-to-the-half](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1338-reduce-array-size-to-the-half) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0504-base-7](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0504-base-7) |
+| [0840-magic-squares-in-grid](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0840-magic-squares-in-grid) |
 | [1006-clumsy-factorial](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1006-clumsy-factorial) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1033-broken-calculator](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1033-broken-calculator) |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0079-word-search) |
 | [0778-swim-in-rising-water](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0778-swim-in-rising-water) |
+| [0840-magic-squares-in-grid](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0840-magic-squares-in-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
