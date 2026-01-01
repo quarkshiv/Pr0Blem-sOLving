@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0128-longest-consecutive-sequence) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0089-gray-code) |
 | [0172-factorial-trailing-zeroes](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0172-factorial-trailing-zeroes) |
