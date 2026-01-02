@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0647-palindromic-substrings) |
 | [0881-boats-to-save-people](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0881-boats-to-save-people) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2402-meeting-rooms-iii) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2402-meeting-rooms-iii) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3583-count-special-triplets) |
