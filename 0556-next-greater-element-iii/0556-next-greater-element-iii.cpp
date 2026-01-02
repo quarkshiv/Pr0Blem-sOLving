@@ -14,7 +14,7 @@ public:
         swap(s[j],s[i]);
         reverse(s.begin()+i+1,s.end());
         long long num = stoll(s);
-        if(num>=INT_MAX) return -1;
+        if(num>INT_MAX) return -1;
         else return num;
     }
 };
