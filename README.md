@@ -406,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0746-min-cost-climbing-stairs) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1626-best-team-with-no-conflicts](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1626-best-team-with-no-conflicts) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
