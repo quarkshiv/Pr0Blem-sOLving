@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1929-concatenation-of-array) |
 | [1936-add-minimum-number-of-rungs](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1936-add-minimum-number-of-rungs) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1975-maximum-matrix-sum) |
 | [2054-two-best-non-overlapping-events](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2126-destroying-asteroids](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2126-destroying-asteroids) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1936-add-minimum-number-of-rungs](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1936-add-minimum-number-of-rungs) |
+| [1975-maximum-matrix-sum](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1975-maximum-matrix-sum) |
 | [2126-destroying-asteroids](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0778-swim-in-rising-water) |
 | [0840-magic-squares-in-grid](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0840-magic-squares-in-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
