@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0504-base-7) |
 | [0556-next-greater-element-iii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0556-next-greater-element-iii) |
 | [0647-palindromic-substrings](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0647-palindromic-substrings) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0944-delete-columns-to-make-sorted](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0416-partition-equal-subset-sum) |
 | [0647-palindromic-substrings](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0647-palindromic-substrings) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0746-min-cost-climbing-stairs) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1235-maximum-profit-in-job-scheduling) |
