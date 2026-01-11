@@ -12,17 +12,15 @@
 class Solution {
 public:
     bool f(TreeNode* root,long long l,long long r){
-          if(root==nullptr){
+        if(!root){
             return true;
-          }
-          if(root->val>l && root->val<r){
+        }
+        if(root->val>l && root->val<r){
               return f(root->left,l,root->val) && f(root->right,root->val,r);
-          }
-          else return false;
+        }
+        else return false;
     }
     bool isValidBST(TreeNode* root) {
-        long long mini=-1e18;
-        long long maxi=1e18;
-        return f(root,mini,maxi);
+        return f(root,-1e18,1e18);
     }
 };
