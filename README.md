@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0152-maximum-product-subarray) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0402-remove-k-digits) |
 | [0682-baseball-game](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0735-asteroid-collision) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0739-daily-temperatures) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
