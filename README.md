@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3454-separate-squares-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3454-separate-squares-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3576-transform-array-to-all-equal-elements](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3576-transform-array-to-all-equal-elements) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2618-maximize-the-minimum-powered-city](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3454-separate-squares-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3454-separate-squares-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -613,4 +615,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0700-search-in-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3454-separate-squares-ii) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
