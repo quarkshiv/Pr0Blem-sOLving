@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2618-maximize-the-minimum-powered-city](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2402-meeting-rooms-iii) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2856-minimum-array-length-after-pair-removals) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3583-count-special-triplets) |
@@ -589,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0204-count-primes) |
 | [1925-count-square-sum-triples](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1925-count-square-sum-triples) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 ## Brainteaser
 |  |
 | ------- |
