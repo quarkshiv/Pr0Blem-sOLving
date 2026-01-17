@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-minimum-array-length-after-pair-removals](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2288-count-operations-to-obtain-zero) |
 | [2364-count-number-of-bad-pairs](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2364-count-number-of-bad-pairs) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -574,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1266-minimum-time-visiting-all-points) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3623-count-number-of-trapezoids-i](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3623-count-number-of-trapezoids-i) |
 ## Backtracking
 |  |
