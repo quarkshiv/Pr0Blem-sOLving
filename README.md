@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0318-maximum-product-of-word-lengths) |
 | [0410-split-array-largest-sum](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0435-non-overlapping-intervals) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0475-heaters](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0475-heaters) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0056-merge-intervals) |
 | [0164-maximum-gap](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0164-maximum-gap) |
 | [0268-missing-number](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0268-missing-number) |
+| [0435-non-overlapping-intervals](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0435-non-overlapping-intervals) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0475-heaters](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0435-non-overlapping-intervals) |
 | [0881-boats-to-save-people](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0881-boats-to-save-people) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1033-broken-calculator](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1033-broken-calculator) |
@@ -446,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0435-non-overlapping-intervals) |
 | [0583-delete-operation-for-two-strings](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0647-palindromic-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
