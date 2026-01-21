@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1390-four-divisors](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1514-path-with-maximum-probability](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1514-path-with-maximum-probability) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0778-swim-in-rising-water) |
 | [1338-reduce-array-size-to-the-half](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1338-reduce-array-size-to-the-half) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1514-path-with-maximum-probability](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1514-path-with-maximum-probability) |
 | [1642-furthest-building-you-can-reach](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1642-furthest-building-you-can-reach) |
 | [1686-stone-game-vi](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1686-stone-game-vi) |
 | [2054-two-best-non-overlapping-events](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2054-two-best-non-overlapping-events) |
@@ -661,4 +663,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1833-maximum-ice-cream-bars) |
+## Graph Theory
+|  |
+| ------- |
+| [1514-path-with-maximum-probability](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1514-path-with-maximum-probability) |
+## Shortest Path
+|  |
+| ------- |
+| [1514-path-with-maximum-probability](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1514-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
