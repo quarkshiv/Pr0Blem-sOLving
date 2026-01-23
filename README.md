@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1975-maximum-matrix-sum) |
 | [2126-destroying-asteroids](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2178-maximum-split-of-positive-even-integers](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2233-maximum-product-after-k-increments](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2233-maximum-product-after-k-increments) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2448-minimum-cost-to-make-array-equal) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2178-maximum-split-of-positive-even-integers](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2288-count-operations-to-obtain-zero) |
 | [2364-count-number-of-bad-pairs](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2364-count-number-of-bad-pairs) |
@@ -621,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0216-combination-sum-iii) |
 | [0797-all-paths-from-source-to-target](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0797-all-paths-from-source-to-target) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0967-numbers-with-same-consecutive-differences) |
+| [2178-maximum-split-of-positive-even-integers](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2178-maximum-split-of-positive-even-integers) |
 ## Enumeration
 |  |
 | ------- |
