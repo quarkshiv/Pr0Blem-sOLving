@@ -4,12 +4,12 @@ public:
         sort(nums.begin(),nums.end());
         int l=0;
         int r=nums.size()-1;
-        vector<int>v;
+        int maxi = INT_MIN;
         while(l<=r){
-              v.push_back(nums[l]+nums[r]);
-                  l++;
-                  r--;
-              }
-        return *max_element(v.begin(),v.end());
+              maxi = max(maxi,nums[l]+nums[r]);
+              l++;
+              r--;
+        }
+        return maxi;
     }
 };
