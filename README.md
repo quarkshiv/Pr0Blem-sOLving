@@ -568,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0547-number-of-provinces](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0547-number-of-provinces) |
 | [0778-swim-in-rising-water](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0797-all-paths-from-source-to-target) |
@@ -581,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0279-perfect-squares](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0279-perfect-squares) |
+| [0547-number-of-provinces](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0547-number-of-provinces) |
 | [0778-swim-in-rising-water](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0797-all-paths-from-source-to-target) |
@@ -707,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0547-number-of-provinces) |
 | [1514-path-with-maximum-probability](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1514-path-with-maximum-probability) |
 ## Shortest Path
 |  |
@@ -716,4 +719,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
