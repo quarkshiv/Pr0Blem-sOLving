@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1033-broken-calculator](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1033-broken-calculator) |
 | [1266-minimum-time-visiting-all-points](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1390-four-divisors) |
+| [1551-minimum-operations-to-make-array-equal](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1686-stone-game-vi](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1686-stone-game-vi) |
