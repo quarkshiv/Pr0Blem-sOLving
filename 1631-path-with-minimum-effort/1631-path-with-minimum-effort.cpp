@@ -18,6 +18,7 @@ public:
                   }
                 for(int delrow=-1;delrow<=1;delrow++){
                 for(int delcol=-1;delcol<=1;delcol++){
+                     if(abs(delrow)+abs(delcol)==1){
                      int nrow = r + delrow;
                     int ncol = c+delcol;
                     if(nrow<n && nrow>=0 && ncol<m && ncol>=0){
@@ -29,7 +30,7 @@ public:
         }
                     }
         }
-                }}
-        return -1;
+                }}}
+        return 0;
     }
 };
