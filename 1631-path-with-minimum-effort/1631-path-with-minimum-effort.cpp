@@ -5,6 +5,7 @@ public:
            int m= heights[0].size();
         vector<vector<int>>dist(n,vector<int>(m,INT_MAX));
         priority_queue<pair<int,pair<int,int>>,vector<pair<int,pair<int,int>>>,greater<pair<int,pair<int,int>>>>pq;
+        dist[0][0]=0;
         pq.push({0,{0,0}});
         while(!pq.empty()){
               auto val =pq.top();
