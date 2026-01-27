@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1590-make-sum-divisible-by-p](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1590-make-sum-divisible-by-p) |
 | [1626-best-team-with-no-conflicts](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1626-best-team-with-no-conflicts) |
+| [1631-path-with-minimum-effort](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1631-path-with-minimum-effort) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1642-furthest-building-you-can-reach](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1642-furthest-building-you-can-reach) |
 | [1686-stone-game-vi](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1686-stone-game-vi) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1300-sum-of-mutated-array-closest-to-target) |
+| [1631-path-with-minimum-effort](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1631-path-with-minimum-effort) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2054-two-best-non-overlapping-events) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0778-swim-in-rising-water) |
 | [0840-magic-squares-in-grid](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0840-magic-squares-in-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1631-path-with-minimum-effort](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1631-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -549,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1338-reduce-array-size-to-the-half) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1514-path-with-maximum-probability](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1514-path-with-maximum-probability) |
+| [1631-path-with-minimum-effort](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1631-path-with-minimum-effort) |
 | [1642-furthest-building-you-can-reach](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1642-furthest-building-you-can-reach) |
 | [1686-stone-game-vi](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1686-stone-game-vi) |
 | [1753-maximum-score-from-removing-stones](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1753-maximum-score-from-removing-stones) |
@@ -589,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0797-all-paths-from-source-to-target) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1631-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3863-power-grid-maintenance) |
@@ -605,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1631-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2092-find-all-people-with-secret) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -742,4 +748,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0547-number-of-provinces) |
+| [1631-path-with-minimum-effort](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
