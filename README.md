@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2594-minimum-time-to-repair-cars](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2594-minimum-time-to-repair-cars) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2856-minimum-array-length-after-pair-removals) |
 ## Binary Search
 |  |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-minimum-cost-to-make-array-equal](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2594-minimum-time-to-repair-cars](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2594-minimum-time-to-repair-cars) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -260,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2856-minimum-array-length-after-pair-removals) |
