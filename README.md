@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3424-minimum-cost-to-make-arrays-identical](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3454-separate-squares-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3454-separate-squares-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3424-minimum-cost-to-make-arrays-identical](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Greedy
 |  |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-minimum-array-length-after-pair-removals](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3424-minimum-cost-to-make-arrays-identical](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3576-transform-array-to-all-equal-elements](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3576-transform-array-to-all-equal-elements) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
