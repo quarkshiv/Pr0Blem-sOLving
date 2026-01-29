@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1936-add-minimum-number-of-rungs](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1936-add-minimum-number-of-rungs) |
 | [1975-maximum-matrix-sum](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1975-maximum-matrix-sum) |
+| [2027-minimum-moves-to-convert-string](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2027-minimum-moves-to-convert-string) |
 | [2126-destroying-asteroids](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2178-maximum-split-of-positive-even-integers) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2027-minimum-moves-to-convert-string](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2027-minimum-moves-to-convert-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2211-count-collisions-on-a-road) |
