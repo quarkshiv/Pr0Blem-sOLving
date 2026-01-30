@@ -415,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2178-maximum-split-of-positive-even-integers) |
+| [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2288-count-operations-to-obtain-zero) |
 | [2364-count-number-of-bad-pairs](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2364-count-number-of-bad-pairs) |
@@ -689,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1291-sequential-digits) |
 | [1925-count-square-sum-triples](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1925-count-square-sum-triples) |
+| [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 ## Brainteaser
 |  |
