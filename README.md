@@ -541,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2222-number-of-ways-to-select-buildings) |
+| [2320-count-number-of-ways-to-place-houses](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2320-count-number-of-ways-to-place-houses) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2327-number-of-people-aware-of-a-secret) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
