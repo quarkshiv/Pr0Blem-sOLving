@@ -644,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1631-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2092-find-all-people-with-secret) |
+| [2360-longest-cycle-in-a-graph](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2360-longest-cycle-in-a-graph) |
 | [3863-power-grid-maintenance](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
@@ -661,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1631-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2092-find-all-people-with-secret) |
+| [2360-longest-cycle-in-a-graph](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2360-longest-cycle-in-a-graph) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [3863-power-grid-maintenance](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3863-power-grid-maintenance) |
 ## Union Find
@@ -784,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0547-number-of-provinces) |
 | [1514-path-with-maximum-probability](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1514-path-with-maximum-probability) |
+| [2360-longest-cycle-in-a-graph](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2360-longest-cycle-in-a-graph) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
@@ -809,4 +812,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2977-minimum-cost-to-convert-string-ii) |
+## Topological Sort
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2360-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
