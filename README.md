@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3616-make-array-elements-equal-to-zero](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3623-count-number-of-trapezoids-i](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3623-count-number-of-trapezoids-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3634-minimum-removals-to-balance-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3634-minimum-removals-to-balance-array) |
 ## Greedy
 |  |
 | ------- |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3634-minimum-removals-to-balance-array) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## String
 |  |
