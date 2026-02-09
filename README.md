@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1033-broken-calculator](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1033-broken-calculator) |
 | [1338-reduce-array-size-to-the-half](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1338-reduce-array-size-to-the-half) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1382-balance-a-binary-search-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1382-balance-a-binary-search-tree) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -663,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0797-all-paths-from-source-to-target) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1382-balance-a-binary-search-tree) |
 | [1631-path-with-minimum-effort](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1631-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2092-find-all-people-with-secret) |
@@ -774,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1382-balance-a-binary-search-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -783,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -797,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1382-balance-a-binary-search-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Segment Tree
 |  |
@@ -851,4 +856,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
