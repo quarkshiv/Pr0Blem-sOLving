@@ -1,18 +1,15 @@
 class Solution {
 public:
-    string tobinary(int n){
-        string ans="";
-        while(n>0){
-               ans+=char((n%2) +'0');
-               n=n/2;
-        }
-          reverse(ans.begin(), ans.end());
-        while(ans.size() < 32) ans = "0" + ans;
-        return ans;
-    }
     int reverseBits(int n) {
-       string s = tobinary(n);
-         reverse(s.begin(),s.end());
-        return bitset<32>(s).to_ulong();
+        string ans="";
+       for(int i=31;i>=0;i--){
+        ans += char('0' + ((n >> i)&1));
+       }
+       reverse(ans.begin(),ans.end());
+       unsigned int res=0;
+       for(char  c : ans){
+           res =res * 2 + (c-'0');
+       }
+       return res;
     }
 };
