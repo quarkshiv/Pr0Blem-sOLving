@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0042-trapping-rain-water) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0044-wildcard-matching) |
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0044-wildcard-matching) |
