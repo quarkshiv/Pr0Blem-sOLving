@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2126-destroying-asteroids) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2155-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2155-all-divisions-with-the-highest-score-of-a-binary-array) |
 | [2169-simple-bank-system](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2169-simple-bank-system) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2226-maximum-candies-allocated-to-k-children) |
