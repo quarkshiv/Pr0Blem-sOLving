@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1390-four-divisors) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1514-path-with-maximum-probability](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1514-path-with-maximum-probability) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1300-sum-of-mutated-array-closest-to-target) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1631-path-with-minimum-effort) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1970-last-day-where-you-can-still-cross) |
