@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1338-reduce-array-size-to-the-half) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1390-four-divisors](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1390-four-divisors) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1052-grumpy-bookstore-owner) |
 | [1248-count-number-of-nice-subarrays](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1248-count-number-of-nice-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1109-corporate-flight-bookings](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1109-corporate-flight-bookings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1248-count-number-of-nice-subarrays) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1590-make-sum-divisible-by-p](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1590-make-sum-divisible-by-p) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2222-number-of-ways-to-select-buildings) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2448-minimum-cost-to-make-array-equal) |
