@@ -445,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0735-asteroid-collision) |
 | [1006-clumsy-factorial](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1006-clumsy-factorial) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1929-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2169-simple-bank-system) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1551-minimum-operations-to-make-array-equal](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1686-stone-game-vi](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1686-stone-game-vi) |
 | [1753-maximum-score-from-removing-stones](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1753-maximum-score-from-removing-stones) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -597,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
