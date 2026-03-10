@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1514-path-with-maximum-probability](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1514-path-with-maximum-probability) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1338-reduce-array-size-to-the-half) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1626-best-team-with-no-conflicts](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1626-best-team-with-no-conflicts) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1248-count-number-of-nice-subarrays) |
 | [1338-reduce-array-size-to-the-half](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1338-reduce-array-size-to-the-half) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1590-make-sum-divisible-by-p) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1679-max-number-of-k-sum-pairs) |
