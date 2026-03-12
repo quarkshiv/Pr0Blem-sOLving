@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-minimum-array-length-after-pair-removals](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3454-separate-squares-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3454-separate-squares-ii) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Sorting
 |  |
 | ------- |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3457-eat-pizzas](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3457-eat-pizzas) |
 | [3576-transform-array-to-all-equal-elements](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3576-transform-array-to-all-equal-elements) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Hash Table
@@ -955,6 +957,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
@@ -974,6 +977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0547-number-of-provinces) |
 | [1631-path-with-minimum-effort](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1631-path-with-minimum-effort) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Trie
 |  |
 | ------- |
@@ -1007,4 +1011,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
