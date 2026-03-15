@@ -492,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1622-fancy-sequence) |
 | [2169-simple-bank-system](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2169-simple-bank-system) |
 ## Math
 |  |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1390-four-divisors) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1622-fancy-sequence](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1622-fancy-sequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1686-stone-game-vi](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1686-stone-game-vi) |
@@ -943,6 +945,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1622-fancy-sequence) |
 | [3454-separate-squares-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3721-longest-balanced-subarray-ii) |
