@@ -4,8 +4,6 @@ public:
         int m = matrix.size();
         int n = matrix[0].size();
         int ans = 0;
-
-        // Build heights in-place
         for (int i = 1; i < m; i++) {
             for (int j = 0; j < n; j++) {
                 if (matrix[i][j] == 1) {
