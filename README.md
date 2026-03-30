@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2501-longest-square-streak-in-an-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2501-longest-square-streak-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
