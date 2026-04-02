@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3379-transformed-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3379-transformed-array) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3454-separate-squares-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3454-separate-squares-ii) |
@@ -596,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -734,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3640-trionic-array-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Monotonic Stack
