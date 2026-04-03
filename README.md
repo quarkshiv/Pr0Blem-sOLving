@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0300-longest-increasing-subsequence) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0222-count-complete-tree-nodes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0300-longest-increasing-subsequence) |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0085-maximal-rectangle) |
+| [0240-search-a-2d-matrix-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0240-search-a-2d-matrix-ii) |
 | [0778-swim-in-rising-water](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0778-swim-in-rising-water) |
 | [0840-magic-squares-in-grid](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0840-magic-squares-in-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -1057,6 +1060,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0190-reverse-bits) |
+| [0240-search-a-2d-matrix-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0493-reverse-pairs) |
 | [0761-special-binary-string](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0761-special-binary-string) |
 | [0912-sort-an-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0912-sort-an-array) |
