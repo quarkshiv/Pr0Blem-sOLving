@@ -470,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0115-distinct-subsequences) |
+| [0131-palindrome-partitioning](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0131-palindrome-partitioning) |
 | [0318-maximum-product-of-word-lengths](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0318-maximum-product-of-word-lengths) |
 | [0402-remove-k-digits](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0402-remove-k-digits) |
 | [0504-base-7](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0504-base-7) |
@@ -717,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0115-distinct-subsequences) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0279-perfect-squares) |
@@ -932,6 +934,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0216-combination-sum-iii) |
 | [0401-binary-watch](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0401-binary-watch) |
 | [0797-all-paths-from-source-to-target](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0797-all-paths-from-source-to-target) |
