@@ -577,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-maximum-score-from-removing-stones](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1753-maximum-score-from-removing-stones) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1922-count-good-numbers](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1922-count-good-numbers) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1925-count-square-sum-triples](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -971,6 +972,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0050-powx-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1922-count-good-numbers](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1922-count-good-numbers) |
 ## Tree
 |  |
 | ------- |
