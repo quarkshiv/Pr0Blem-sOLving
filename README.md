@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-trionic-array-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3721-longest-balanced-subarray-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Design
 |  |
@@ -1097,6 +1099,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0761-special-binary-string) |
 | [0912-sort-an-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0912-sort-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1382-balance-a-binary-search-tree) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3721-longest-balanced-subarray-ii) |
 ## Merge Sort
