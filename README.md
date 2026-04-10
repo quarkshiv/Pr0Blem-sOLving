@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0042-trapping-rain-water) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0268-missing-number) |
@@ -607,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0085-maximal-rectangle) |
@@ -939,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0078-subsets) |
