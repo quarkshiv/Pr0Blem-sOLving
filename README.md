@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0162-find-peak-element) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0139-word-break) |
 | [0219-contains-duplicate-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0268-missing-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0139-word-break) |
 | [0318-maximum-product-of-word-lengths](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0318-maximum-product-of-word-lengths) |
 | [0402-remove-k-digits](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0402-remove-k-digits) |
 | [0504-base-7](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0504-base-7) |
@@ -731,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0115-distinct-subsequences) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0279-perfect-squares) |
@@ -931,6 +935,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0139-word-break) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Geometry
 |  |
@@ -1084,6 +1089,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0139-word-break) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Topological Sort
 |  |
