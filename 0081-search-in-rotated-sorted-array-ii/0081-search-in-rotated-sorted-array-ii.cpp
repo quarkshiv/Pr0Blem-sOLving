@@ -4,9 +4,9 @@ public:
         int low= 0;
         int high = arr.size()-1;
         while(low<=high){
-              int mid = low + (high-low)/2;
+              int mid = (low +high)/2;
                if(arr[mid]==target)return true;
-              if(arr[low]==arr[mid]==arr[high]){
+              if(arr[low]==arr[mid]&& arr[mid]==arr[high]){
                    low++;
                    high--;
                    continue;
