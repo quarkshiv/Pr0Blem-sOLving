@@ -1,21 +1,24 @@
 class Solution {
 public:
-     int atmost(vector<int>& nums,int k){
-              int cnt=0;
-              int l=0;
-              int odds=0;
-              for(int r=0;r<nums.size();r++){
-                     if(nums[r]%2)odds++;
-                     while(odds>k){
-                           if(nums[l]%2)odds--;
+     int atmost(vector<int>& nums, int k){
+             int l=0;
+             int ans=0;
+             int cnt=0;
+             for(int r=0;r<nums.size();r++){
+                      if(nums[r]%2){
+                        cnt++;
+                      }
+                    while(cnt>k){
+                           if(nums[l]%2){
+                            cnt--;
+                           }
                            l++;
-                     }
-                     cnt+=(r-l+1);
-              }
-              return cnt;
-     }    
+                    }
+                    ans+=r-l+1;
+             }
+             return ans;
+     }
     int numberOfSubarrays(vector<int>& nums, int k) {
-         return atmost(nums,k)-atmost(nums,k-1);
+        return atmost(nums,k)-atmost(nums,k-1);
     }
-
 };
