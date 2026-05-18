@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0682-baseball-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0721-accounts-merge](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0721-accounts-merge) |
 | [0735-asteroid-collision](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0658-find-k-closest-elements) |
+| [0721-accounts-merge](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0721-accounts-merge) |
 | [0761-special-binary-string](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0761-special-binary-string) |
 | [0881-boats-to-save-people](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0881-boats-to-save-people) |
 | [0888-fair-candy-swap](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0888-fair-candy-swap) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0268-missing-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0560-subarray-sum-equals-k) |
+| [0721-accounts-merge](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0721-accounts-merge) |
 | [0815-bus-routes](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0815-bus-routes) |
 | [0840-magic-squares-in-grid](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0840-magic-squares-in-grid) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -515,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0721-accounts-merge](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0721-accounts-merge) |
 | [0761-special-binary-string](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0796-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0944-delete-columns-to-make-sorted) |
@@ -905,6 +909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0547-number-of-provinces](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0797-all-paths-from-source-to-target) |
@@ -928,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0797-all-paths-from-source-to-target) |
@@ -1124,6 +1130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0721-accounts-merge) |
 | [1631-path-with-minimum-effort](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1631-path-with-minimum-effort) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Trie
