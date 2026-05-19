@@ -512,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0139-word-break) |
+| [0214-shortest-palindrome](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0214-shortest-palindrome) |
 | [0318-maximum-product-of-word-lengths](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0318-maximum-product-of-word-lengths) |
 | [0402-remove-k-digits](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0402-remove-k-digits) |
 | [0504-base-7](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0504-base-7) |
@@ -1174,11 +1175,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1392-longest-happy-prefix) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1392-longest-happy-prefix) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Minimum Spanning Tree
@@ -1192,6 +1195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0214-shortest-palindrome) |
 | [0796-rotate-string](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0796-rotate-string) |
 | [1392-longest-happy-prefix](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
