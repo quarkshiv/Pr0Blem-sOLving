@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2906-construct-product-matrix](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2906-construct-product-matrix) |
@@ -688,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
@@ -942,6 +944,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2092-find-all-people-with-secret) |
 | [2360-longest-cycle-in-a-graph](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2360-longest-cycle-in-a-graph) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3863-power-grid-maintenance](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
@@ -968,6 +971,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2092-find-all-people-with-secret](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2092-find-all-people-with-secret) |
 | [2360-longest-cycle-in-a-graph](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2360-longest-cycle-in-a-graph) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3863-power-grid-maintenance](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
@@ -1154,6 +1158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0721-accounts-merge) |
 | [0990-satisfiability-of-equality-equations](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0990-satisfiability-of-equality-equations) |
 | [1631-path-with-minimum-effort](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1631-path-with-minimum-effort) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Trie
 |  |
