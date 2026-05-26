@@ -620,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0089-gray-code) |
 | [0172-factorial-trailing-zeroes](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0189-rotate-array) |
@@ -798,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0091-decode-ways) |
@@ -1015,6 +1017,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0139-word-break) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Geometry
