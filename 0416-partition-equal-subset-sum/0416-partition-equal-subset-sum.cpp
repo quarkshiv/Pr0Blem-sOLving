@@ -16,8 +16,22 @@ public:
         if(sum%2)return false;
         int k = sum/2;
         int n = nums.size();
-        vector<vector<int>>dp(n,vector<int>(k+1,-1));
-        return f(n-1,nums,dp,k);
+        vector<vector<bool>>dp(n,vector<bool>(k+1,false));
+        for(int i=0;i<n;i++){
+            dp[i][0]=true;
+        }
+       if(nums[0]<k) dp[0][nums[0]]=true;
+        for(int ind=1;ind<n;ind++){
+             for(int j=1;j<=k;j++){
+                    bool nt = dp[ind-1][j];
+    bool t = false;
+    if(nums[ind]<=j){
+          t = dp[ind-1][j-nums[ind]];
+    }
+     dp[ind][j]=t+nt;
+   }
+             }
+             return dp[n-1][k];
 
     }
 };
