@@ -1,47 +1,26 @@
 class Solution {
 public:
-   int countPartitionsUtil(int ind, int target, vector<int>& arr, vector<vector<int>>& dp) {
-    if (ind == 0) {
-        if (target == 0 && arr[0] == 0)
-            return 2; // Two ways to partition: include or exclude the element
-        if (target == 0 || target == arr[0])
-            return 1; // One way to partition: include or exclude the element
-        return 0; // No way to partition
+    int f(int ind,int val,vector<int>& arr,vector<vector<int>>&dp){
+        if(ind==0){
+              if(val==0 && arr[0]==0)return 2;
+              else if(val==0 || val==arr[0])return 1;
+              else return 0;
+        }
+        if(dp[ind][val]!=-1)return dp[ind][val];
+        int nt = f(ind-1,val,arr,dp);
+        int t=0;
+        if(arr[ind]<=val){
+              t = f(ind-1,val-arr[ind],arr,dp);
+        }
+        return dp[ind][val]=t+nt;
     }
-    
-    // If the result for this index and target sum is already calculated, return it
-    if (dp[ind][target] != -1)
-        return dp[ind][target];
-        
-    // Calculate the number of ways without taking the current element
-    int notTaken = countPartitionsUtil(ind - 1, target, arr, dp);
-    
-    // Calculate the number of ways by taking the current element
-    int taken = 0;
-    if (arr[ind] <= target)
-        taken = countPartitionsUtil(ind - 1, target - arr[ind], arr, dp);
-        
-    // Store the sum of ways in the DP array and return it
-    return dp[ind][target] = (notTaken + taken);
-}
-
     int findTargetSumWays(vector<int>& arr, int target) {
-        int n = arr.size();
-         int totSum = 0;
-    for (int i = 0; i < arr.size(); i++) {
-        totSum += arr[i];
+         int n= arr.size();
+        int totsum  = accumulate(arr.begin(),arr.end(),0ll);
+        int val = (totsum-target)/2;
+        if(totsum-target<0)return 0;
+        if((totsum-target)%2)return 0;
+            vector<vector<int>>dp(n,vector<int>(val+1,-1));
+        return f(n-1,val,arr,dp);
     }
-    
-    // Checking for edge cases
-    if (totSum - target < 0)
-        return 0; 
-    if ((totSum - target) % 2 == 1)
-        return 0; // The difference between the total sum and target sum must be even
-    
-    int s2 = (totSum - target) / 2; // Calculate the required sum for each subset
-    
-    vector<vector<int>> dp(n, vector<int>(s2 + 1, -1)); 
-    return countPartitionsUtil(n - 1, s2, arr, dp); 
-}
 };
-
