@@ -559,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0990-satisfiability-of-equality-equations](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0990-satisfiability-of-equality-equations) |
+| [1092-shortest-common-supersequence](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1143-longest-common-subsequence) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -849,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-champagne-tower](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0799-champagne-tower) |
 | [0907-sum-of-subarray-minimums](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0907-sum-of-subarray-minimums) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1092-shortest-common-supersequence](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1143-longest-common-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1235-maximum-profit-in-job-scheduling) |
