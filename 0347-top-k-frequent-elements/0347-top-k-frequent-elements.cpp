@@ -5,12 +5,8 @@ public:
            for(auto it : nums){
                mpp[it]++;
            }
-           vector<pair<int,int>>v;
-            for(auto it : mpp){
-                     v.push_back({it.first,it.second});
-            }
             priority_queue<pair<int,int>,vector<pair<int,int>>,greater<>>pq;
-              for(auto it : v){
+              for(auto it : mpp){
                  pq.push({it.second,it.first});
                    if(pq.size()>k){
                         pq.pop();
