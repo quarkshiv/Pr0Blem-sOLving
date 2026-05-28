@@ -624,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0355-design-twitter) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1622-fancy-sequence](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1622-fancy-sequence) |
 | [2169-simple-bank-system](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2169-simple-bank-system) |
 ## Math
@@ -914,6 +915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0355-design-twitter) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0658-find-k-closest-elements](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0658-find-k-closest-elements) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0778-swim-in-rising-water](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0778-swim-in-rising-water) |
 | [0912-sort-an-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0912-sort-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1338-reduce-array-size-to-the-half) |
@@ -1115,6 +1117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -1129,6 +1132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1382-balance-a-binary-search-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -1143,6 +1147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -1270,4 +1275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0347-top-k-frequent-elements) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
