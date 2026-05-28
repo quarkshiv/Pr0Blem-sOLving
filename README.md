@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0300-longest-increasing-subsequence) |
 | [0318-maximum-product-of-word-lengths](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0318-maximum-product-of-word-lengths) |
 | [0322-coin-change](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0403-frog-jump](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0410-split-array-largest-sum) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0056-merge-intervals) |
 | [0164-maximum-gap](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0164-maximum-gap) |
 | [0268-missing-number](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0139-word-break) |
 | [0219-contains-duplicate-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0347-top-k-frequent-elements) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0721-accounts-merge) |
@@ -889,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -903,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0658-find-k-closest-elements](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0658-find-k-closest-elements) |
 | [0778-swim-in-rising-water](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0778-swim-in-rising-water) |
@@ -932,6 +937,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0347-top-k-frequent-elements) |
 | [0992-subarrays-with-k-different-integers](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0992-subarrays-with-k-different-integers) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -1214,6 +1220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0190-reverse-bits](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0493-reverse-pairs) |
 | [0761-special-binary-string](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0761-special-binary-string) |
 | [0912-sort-an-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0912-sort-an-array) |
@@ -1257,5 +1264,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quickselect
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0347-top-k-frequent-elements) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 <!---LeetCode Topics End-->
