@@ -1,7 +1,7 @@
 class Solution {
 public:
     int minElement(vector<int>& nums) {
-         vector<int>ans;
+         int mini=INT_MAX;
         for(auto &it : nums){
             int sum=0;
             while(it>0){
@@ -9,8 +9,10 @@ public:
                    it/=10;
             
         }
-           ans.push_back(sum);
+        if(sum!=0){
+          mini  = min(sum,mini);
         }
-        return *min_element(ans.begin(),ans.end());
+        }
+        return mini;
     }
 };
