@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0682-baseball-game) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0721-accounts-merge](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0721-accounts-merge) |
 | [0735-asteroid-collision](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0735-asteroid-collision) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -858,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0746-min-cost-climbing-stairs) |
 | [0799-champagne-tower](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0799-champagne-tower) |
 | [0907-sum-of-subarray-minimums](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0907-sum-of-subarray-minimums) |
