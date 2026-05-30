@@ -1,26 +1,28 @@
 class Solution {
 public:
-      int f(int ind,int buy, vector<vector<int>>&dp,vector<int>& prices){
-           if(ind==prices.size()){
-            return 0;
+   vector<vector<int>>dp;
+      int f(int ind,int buy,vector<int>& prices){
+        int n = prices.size();
+           if(ind==n){
+               return 0;
            }
            if(dp[ind][buy]!=-1)return dp[ind][buy];
-           int take=0;
-           int nottake=0;
+           int nottake = INT_MIN;
+           int take  = INT_MIN;
            if(buy){
-                  take = -prices[ind]+f(ind+1,0,dp,prices);
-                  nottake= f(ind+1,1,dp,prices);
+                take=-prices[ind]+f(ind+1,0,prices);
+                nottake = f(ind+1,1,prices);
            }
            else{
-                take = prices[ind]+ f(ind+1,1,dp,prices);
-                nottake = f(ind+1,0,dp,prices);
+               take = prices[ind] + f(ind+1,1,prices);
+               nottake = f(ind+1,0,prices);
            }
            return dp[ind][buy] = max(take,nottake);
       }
     int maxProfit(vector<int>& prices) {
         int n = prices.size();
-        vector<vector<int>>dp(n,vector<int>(2,-1));
-        return f(0,1,dp,prices);
+        dp.assign(n,vector<int>(2,-1));
+          return f(0,1,prices);
 
     }
 };
