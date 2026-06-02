@@ -19,11 +19,18 @@ public:
              preorder(root->right);
     }
     void flatten(TreeNode* root) {
-        preorder(root);
-        for(int i=0;i+1<pre.size();i++){
-               pre[i]->left = nullptr;
-               pre[i]->right = pre[i+1];
-        
+        TreeNode* curr=root;
+        while(curr){
+              if(curr->left){
+                  TreeNode* leftchild= curr->left;
+                  while(leftchild->right){
+                        leftchild = leftchild->right;
+                  }
+                  leftchild->right=curr->right;
+                  curr->right =curr->left;
+                  curr->left=nullptr;
+              }
+                 curr = curr->right;
         }
     }
 };
