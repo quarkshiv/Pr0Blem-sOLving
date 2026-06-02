@@ -757,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0402-remove-k-digits](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0678-valid-parenthesis-string) |
@@ -1003,6 +1004,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0207-course-schedule](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -1154,6 +1156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -1191,6 +1194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0230-kth-smallest-element-in-a-bst) |
