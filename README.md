@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0139-word-break) |
 | [0219-contains-duplicate-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0219-contains-duplicate-ii) |
@@ -1138,6 +1140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0098-validate-binary-search-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0112-path-sum) |
@@ -1171,6 +1174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0098-validate-binary-search-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0112-path-sum) |
@@ -1264,6 +1268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0004-median-of-two-sorted-arrays) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0190-reverse-bits](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0240-search-a-2d-matrix-ii) |
