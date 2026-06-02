@@ -19,7 +19,7 @@ public:
               TreeNode* node = q.front();
               q.pop();
               if(node){ 
-                   ans.append(to_string(node->val)+",");
+                   ans+=(to_string(node->val)+",");
                    q.push(node->left);
                    q.push(node->right);
               }
