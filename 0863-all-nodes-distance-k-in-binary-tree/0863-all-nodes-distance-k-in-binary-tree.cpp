@@ -8,63 +8,50 @@
  * };
  */
 class Solution {
-public:
-   vector<int>bfs(TreeNode* target, int k, unordered_map<TreeNode*,TreeNode*>&parentMap){
-        queue<TreeNode*>q;
-        unordered_set<TreeNode*>vis;
-        vis.insert(target);
-        q.push(target);
-        int currlevel=0;
-        while(!q.empty()){
-            int size=q.size();
-            if(currlevel==k) break;
-            for(int i=0;i<size;i++){
-            TreeNode* node = q.front();
-            q.pop();
-            if(node->left && !vis.count(node->left)){
-                vis.insert(node->left);
-                q.push(node->left);
-            }
-             if(node->right && !vis.count(node->right)){
-                vis.insert(node->right);
-                q.push(node->right);
-            }
-            if(parentMap.count(node) && !vis.count(parentMap[node])){
-                   vis.insert(parentMap[node]);
-                   q.push(parentMap[node]);
-            }
-             
+public: 
+    void build(TreeNode* root,unordered_map<TreeNode*,TreeNode*>&mpp){
+        if(!root)return;
+        if(root->left){
+              mpp[root->left]=root;
+              build(root->left,mpp);
         }
-        currlevel++;
-   }
-    vector<int>ans;
-   while(!q.empty()){
-       ans.push_back(q.front()->val);
-       q.pop();
-   }
-   return ans;
-   }
-    void mapParentMap(TreeNode* root, unordered_map<TreeNode*, TreeNode*>& parentMap){
-         queue<TreeNode*> q;
-        q.push(root);
-        while(!q.empty()){
-              TreeNode* node= q.front();
-              q.pop();
-              if(node->left){
-                  parentMap[node->left]=node;
-                  q.push(node->left);
-              }
-                if(node->right){
-                  parentMap[node->right]=node;
-                  q.push(node->right);
-              }
+         if(root->right){
+              mpp[root->right]=root;
+              build(root->right,mpp);
         }
     }
     vector<int> distanceK(TreeNode* root, TreeNode* target, int k) {
-        if(!root) return {};
-        unordered_map<TreeNode*,TreeNode*>parentMap;
-        mapParentMap(root,parentMap); 
-        return bfs(target,k,parentMap);
+        unordered_map<TreeNode*,TreeNode*>mpp;
+        vector<int>ans;
+        build(root,mpp);
+        queue<pair<TreeNode*,int>>q;
+        q.push({target,0});
+        unordered_set<TreeNode*>vis;
+        vis.insert(target);
+        while(!q.empty()){
+              int sz = q.size();
+            while(sz--){
+                TreeNode* node = q.front().first;
+                int steps=q.front().second;
+                q.pop();
+                if(steps==k){
+                       ans.push_back(node->val);
+                       continue;
+                }
+                if(node->left && !vis.count(node->left)){
+                    vis.insert(node->left);
+                    q.push({node->left,steps+1});
+                }
+                if(node->right && !vis.count(node->right)){
+                    vis.insert(node->right);
+                    q.push({node->right,steps+1});
+                }
+                if(mpp.count(node) && !vis.count(mpp[node])){
+                      vis.insert(mpp[node]);
+                      q.push({mpp[node],steps+1});
+                }
+            }
+        }
+        return ans;
     }
-
 };
