@@ -13,17 +13,15 @@ class Solution {
 public:
    int cnt=1;
     int countNodes(TreeNode* root) {
-        if(!root){
-            return 0;
-        }
-        if(root->left){
-               countNodes(root->left);
-               cnt++;
-        }
-        if(root->right){
+        if(!root)return 0;
+         if(root->left){
+            cnt++;
+              countNodes(root->left);
+         }
+          if(root->right){
+            cnt++;
               countNodes(root->right);
-              cnt++;
-        }
-        return cnt;
+         }
+         return cnt;
     }
 };
