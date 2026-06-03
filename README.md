@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1043-partition-array-for-maximum-sum](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1043-partition-array-for-maximum-sum) |
 | [1052-grumpy-bookstore-owner](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1052-grumpy-bookstore-owner) |
 | [1109-corporate-flight-bookings](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1109-corporate-flight-bookings) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -890,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-champagne-tower](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0799-champagne-tower) |
 | [0907-sum-of-subarray-minimums](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0907-sum-of-subarray-minimums) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1043-partition-array-for-maximum-sum](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1043-partition-array-for-maximum-sum) |
 | [1092-shortest-common-supersequence](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1143-longest-common-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1155-number-of-dice-rolls-with-target-sum) |
