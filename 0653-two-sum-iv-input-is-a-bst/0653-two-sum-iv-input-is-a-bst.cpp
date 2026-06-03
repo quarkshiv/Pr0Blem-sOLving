@@ -20,10 +20,12 @@ void f(TreeNode* root,vector<int>&v){
     bool findTarget(TreeNode* root, int k) {
         vector<int>v;
         f(root,v);
+        unordered_map<int,int>mpp;
         for(int i=0;i<v.size();i++){
-            for(int j=i+1;j<v.size();j++){
-                if(v[i]+v[j]==k)return true;
-            }
+              int val = v[i];
+              int left = k-v[i];
+              if(mpp.count(left))return true;
+              mpp[val]++;
         }
         return false;
     }
