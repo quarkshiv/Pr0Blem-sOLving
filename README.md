@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1004-max-consecutive-ones-iii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1052-grumpy-bookstore-owner](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1052-grumpy-bookstore-owner) |
@@ -768,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1006-clumsy-factorial](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1006-clumsy-factorial) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2211-count-collisions-on-a-road](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2211-count-collisions-on-a-road) |
@@ -923,6 +925,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0907-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Bucket Sort
@@ -1172,6 +1175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1382-balance-a-binary-search-tree) |
@@ -1187,6 +1191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -1211,6 +1216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1382-balance-a-binary-search-tree) |
