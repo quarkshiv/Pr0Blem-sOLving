@@ -722,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3623-count-number-of-trapezoids-i](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3623-count-number-of-trapezoids-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Matrix
@@ -926,6 +927,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-trionic-array-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1150,6 +1152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3713-longest-balanced-substring-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Brainteaser
 |  |
 | ------- |
