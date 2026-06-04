@@ -868,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0152-maximum-product-subarray) |
@@ -1028,6 +1029,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0207-course-schedule) |
@@ -1197,6 +1199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0199-binary-tree-right-side-view) |
@@ -1252,6 +1255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0199-binary-tree-right-side-view) |
