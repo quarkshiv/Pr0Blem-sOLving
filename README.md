@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0204-count-primes) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0056-merge-intervals) |
 | [0164-maximum-gap](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0295-find-median-from-data-stream) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0347-top-k-frequent-elements) |
@@ -1001,6 +1004,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0347-top-k-frequent-elements) |
 | [0992-subarrays-with-k-different-integers](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0992-subarrays-with-k-different-integers) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -1359,6 +1363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0240-search-a-2d-matrix-ii) |
