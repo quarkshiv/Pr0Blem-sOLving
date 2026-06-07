@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0682-baseball-game) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0475-heaters](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0621-task-scheduler](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0658-find-k-closest-elements) |
 | [0721-accounts-merge](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0721-accounts-merge) |
 | [0761-special-binary-string](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0761-special-binary-string) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0860-lemonade-change) |
@@ -476,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0355-design-twitter) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0721-accounts-merge) |
 | [0815-bus-routes](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0815-bus-routes) |
@@ -978,6 +982,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0355-design-twitter) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0621-task-scheduler](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0778-swim-in-rising-water](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0778-swim-in-rising-water) |
@@ -1010,6 +1015,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0992-subarrays-with-k-different-integers) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
