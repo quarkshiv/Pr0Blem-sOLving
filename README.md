@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0042-trapping-rain-water) |
+| [0160-intersection-of-two-linked-lists](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0283-move-zeroes) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0139-word-break) |
+| [0160-intersection-of-two-linked-lists](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0229-majority-element-ii) |
@@ -988,6 +990,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0234-palindrome-linked-list) |
 | [0355-design-twitter](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0355-design-twitter) |
