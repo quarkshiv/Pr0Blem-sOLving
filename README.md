@@ -984,6 +984,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0206-reverse-linked-list](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0355-design-twitter) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -1214,6 +1215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0206-reverse-linked-list) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1922-count-good-numbers](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1922-count-good-numbers) |
 ## Tree
