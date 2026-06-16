@@ -1083,6 +1083,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0547-number-of-provinces) |
+| [0572-subtree-of-another-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0662-maximum-width-of-binary-tree) |
 | [0721-accounts-merge](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0721-accounts-merge) |
@@ -1257,6 +1258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0450-delete-node-in-a-bst) |
+| [0572-subtree-of-another-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0700-search-in-a-binary-search-tree) |
@@ -1314,6 +1316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0450-delete-node-in-a-bst) |
+| [0572-subtree-of-another-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0700-search-in-a-binary-search-tree) |
@@ -1432,6 +1435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0214-shortest-palindrome) |
+| [0572-subtree-of-another-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0572-subtree-of-another-tree) |
 | [1392-longest-happy-prefix](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1392-longest-happy-prefix) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Minimum Spanning Tree
@@ -1446,6 +1450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0214-shortest-palindrome) |
+| [0572-subtree-of-another-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0572-subtree-of-another-tree) |
 | [0686-repeated-string-match](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0796-rotate-string) |
 | [1392-longest-happy-prefix](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1392-longest-happy-prefix) |
