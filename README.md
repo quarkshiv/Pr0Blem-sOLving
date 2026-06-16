@@ -651,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-count-collisions-on-a-road](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2211-count-collisions-on-a-road) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2222-number-of-ways-to-select-buildings) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2390-removing-stars-from-a-string](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2390-removing-stars-from-a-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2833-furthest-point-from-origin](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2833-furthest-point-from-origin) |
@@ -687,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2288-count-operations-to-obtain-zero) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2327-number-of-people-aware-of-a-secret) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2390-removing-stars-from-a-string](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2390-removing-stars-from-a-string) |
 | [2402-meeting-rooms-iii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2402-meeting-rooms-iii) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3379-transformed-array) |
@@ -838,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2211-count-collisions-on-a-road](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2211-count-collisions-on-a-road) |
+| [2390-removing-stars-from-a-string](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2390-removing-stars-from-a-string) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Combinatorics
 |  |
