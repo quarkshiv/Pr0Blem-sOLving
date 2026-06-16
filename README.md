@@ -687,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0173-binary-search-tree-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -807,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0402-remove-k-digits) |
