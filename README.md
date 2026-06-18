@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-escape-the-ghosts](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0789-escape-the-ghosts) |
 | [0815-bus-routes](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0815-bus-routes) |
 | [0840-magic-squares-in-grid](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0840-magic-squares-in-grid) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0860-lemonade-change](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0881-boats-to-save-people) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0658-find-k-closest-elements) |
 | [0721-accounts-merge](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0721-accounts-merge) |
 | [0761-special-binary-string](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0761-special-binary-string) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0881-boats-to-save-people](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0881-boats-to-save-people) |
 | [0888-fair-candy-swap](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0888-fair-candy-swap) |
 | [0912-sort-an-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0912-sort-an-array) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0860-lemonade-change](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -1046,6 +1049,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0778-swim-in-rising-water](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0778-swim-in-rising-water) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0912-sort-an-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0912-sort-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1338-reduce-array-size-to-the-half) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
