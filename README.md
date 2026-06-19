@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2233-maximum-product-after-k-increments](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2233-maximum-product-after-k-increments) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2270-number-of-ways-to-split-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2270-number-of-ways-to-split-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2364-count-number-of-bad-pairs](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2364-count-number-of-bad-pairs) |
@@ -895,6 +896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1871-jump-game-vii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2222-number-of-ways-to-select-buildings](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2222-number-of-ways-to-select-buildings) |
+| [2270-number-of-ways-to-split-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2270-number-of-ways-to-split-array) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2574-left-and-right-sum-differences](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2574-left-and-right-sum-differences) |
