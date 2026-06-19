@@ -516,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0355-design-twitter) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0621-task-scheduler) |
@@ -582,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0219-contains-duplicate-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0658-find-k-closest-elements](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0658-find-k-closest-elements) |
 | [0930-binary-subarrays-with-sum](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0992-subarrays-with-k-different-integers) |
@@ -623,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0318-maximum-product-of-word-lengths](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0318-maximum-product-of-word-lengths) |
 | [0402-remove-k-digits](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0402-remove-k-digits) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0504-base-7](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0504-base-7) |
 | [0516-longest-palindromic-subsequence](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0516-longest-palindromic-subsequence) |
 | [0556-next-greater-element-iii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/0556-next-greater-element-iii) |
