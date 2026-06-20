@@ -479,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1936-add-minimum-number-of-rungs](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1936-add-minimum-number-of-rungs) |
 | [1975-maximum-matrix-sum](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1975-maximum-matrix-sum) |
 | [2027-minimum-moves-to-convert-string](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2027-minimum-moves-to-convert-string) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -674,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1980-find-unique-binary-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2027-minimum-moves-to-convert-string](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2027-minimum-moves-to-convert-string) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2211-count-collisions-on-a-road) |
@@ -783,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-nice-pairs-in-an-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1925-count-square-sum-triples](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1925-count-square-sum-triples) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -1288,6 +1291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1686-stone-game-vi](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/1686-stone-game-vi) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Recursion
 |  |
 | ------- |
