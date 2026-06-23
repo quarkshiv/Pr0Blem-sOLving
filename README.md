@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3028-ant-on-the-boundary](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3028-ant-on-the-boundary) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -721,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2390-removing-stars-from-a-string) |
 | [2402-meeting-rooms-iii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2402-meeting-rooms-iii) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3028-ant-on-the-boundary](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3028-ant-on-the-boundary) |
 | [3379-transformed-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3612-process-string-with-special-operations-i) |
@@ -912,6 +914,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2574-left-and-right-sum-differences) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2906-construct-product-matrix](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2906-construct-product-matrix) |
+| [3028-ant-on-the-boundary](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3028-ant-on-the-boundary) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3432-count-partitions-with-even-sum-difference) |
