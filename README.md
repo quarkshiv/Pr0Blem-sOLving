@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3454-separate-squares-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3454-separate-squares-ii) |
 | [3457-eat-pizzas](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3457-eat-pizzas) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3169-count-days-without-meetings](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3169-count-days-without-meetings) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3457-eat-pizzas](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3457-eat-pizzas) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3457-eat-pizzas](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3457-eat-pizzas) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3576-transform-array-to-all-equal-elements](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3576-transform-array-to-all-equal-elements) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -843,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -1100,6 +1104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3462-maximum-sum-with-at-most-k-elements](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/quarkshiv/Pr0Blem-sOLving/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
